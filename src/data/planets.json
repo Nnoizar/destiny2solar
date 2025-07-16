@@ -1,0 +1,27 @@
+[
+    {
+        "id": "earth",
+        "name": "Earth",
+        "thumbnail": "/img/planets/earth.png",
+        "sections": [
+            {
+                "category": "lore",
+                "title": "Deep Stone Crypt Raid",
+                "image": "/img/lore/deep-stone.png",
+                "content": "Deep Stone Crypt is a Raid in Destiny 2, released in the Beyond Light expansion..."
+            },
+            {
+                "category": "lore",
+                "title": "Heist Battleground",
+                "image": "/img/lore/heist.png",
+                "content": "Heist Battlegrounds are three-player matchmade activities that follow Guardians..."
+            },
+            {
+                "category": "gameplay",
+                "title": "Empire Hunts",
+                "image": "/img/gameplay/empire-hunt.png",
+                "content": "Empire Hunts are three-player matchmade activities with Heroic, Legend and Master difficulties..."
+            }
+        ]
+    }
+]
