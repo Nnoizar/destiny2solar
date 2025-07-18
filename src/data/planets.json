@@ -7,20 +7,39 @@
             {
                 "category": "lore",
                 "title": "Deep Stone Crypt Raid",
-                "image": "/img/lore/deep-stone.png",
+                "image": "/img/earth/lore/deep-stone.png",
                 "content": "Deep Stone Crypt is a Raid in Destiny 2, released in the Beyond Light expansion..."
             },
             {
                 "category": "lore",
                 "title": "Heist Battleground",
-                "image": "/img/lore/heist.png",
+                "image": "/img/earth/lore/heist.png",
                 "content": "Heist Battlegrounds are three-player matchmade activities that follow Guardians..."
             },
             {
                 "category": "gameplay",
                 "title": "Empire Hunts",
-                "image": "/img/gameplay/empire-hunt.png",
+                "image": "/img/earth/gameplay/empire-hunt.png",
                 "content": "Empire Hunts are three-player matchmade activities with Heroic, Legend and Master difficulties..."
+            }
+        ]
+    },
+    {
+        "id": "europa",
+        "name": "Europa",
+        "thumbnail": "/img/planets/europa.png",
+        "sections": [
+            {
+                "category": "lore",
+                "title": "The Icy Moon",
+                "image": "/img/europa/lore/lore.jpg",
+                "content": "Europa holds secrets from the Deep..."
+            },
+            {
+                "category": "gameplay",
+                "title": "Europa Patrol Zone",
+                "image": "/img/europa/gameplay/gameplay.jpg",
+                "content": "Guardians land here during..."
             }
         ]
     }

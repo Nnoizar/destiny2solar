@@ -4,11 +4,12 @@ import Header from "../components/Header.jsx";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 import "../styles/PlanetStack.css";
+import "../styles/App.css";
 
 export default function PlanetSelect() {
     const [hoveredIndex, setHoveredIndex] = useState(null);
     const navigate = useNavigate();
-    const planets = ["nessus", "moon", "earth", "neptune", "europe"];
+    const planets = ["nessus", "moon", "earth", "neptune", "europa"];
 
     function handlePlanetClick(planetName) {
         navigate(`/planet/${planetName}`);
@@ -16,11 +17,15 @@ export default function PlanetSelect() {
 
     return (
         <div className="blurred-background-wrapper">
-            <div className="background-layer" />
+            <div
+                className="background-layer"
+                style={{
+                    backgroundImage: `url('${import.meta.env.BASE_URL}img/planets/starscape.png')`,
+                }}
+            />
             <div className="content-layer">
-                <Header />
 
-                <div className="main">
+                <main className="main-content">
                     <h1 className="headline">
                         “Every world has a history. Where will you begin?”
                     </h1>
@@ -39,9 +44,10 @@ export default function PlanetSelect() {
                             />
                         ))}
                     </div>
-                </div>
 
-                <p className="tagline">The stars are waiting. Choose a planet.</p>
+                    {/* ✅ Positioned clearly below planet stack */}
+                    <p className="tagline">The stars are waiting. Choose a planet.</p>
+                </main>
             </div>
         </div>
     );

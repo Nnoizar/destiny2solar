@@ -29,7 +29,7 @@ export default function Planet({
             <div className="planet-wrapper">
                 <img
                     className="planet-image"
-                    src={`./img/planets/${planetName}.png`}
+                    src={`${import.meta.env.BASE_URL}img/planets/${planetName}.png`}
                     alt={planetName}
                 />
                 <div className="planet-name">{planetName}</div>

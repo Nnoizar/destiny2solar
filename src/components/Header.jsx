@@ -1,8 +1,16 @@
+import { Link } from "react-router-dom";
+
 export default function Header() {
     return (
-        <div className="header">
-            <img src="./img/logo.png" className="logo-ghost" alt="Ghost logo" />
+        <header className="header">
+            <Link to="/">
+                <img
+                    className="logo-ghost"
+                    src="/destiny2solar/img/logo.png"
+                    alt="Destiny 2 Solar Index Logo"
+                />
+            </Link>
             <h1>DESTINY 2 SOLAR INDEX</h1>
-        </div>
-    )
+        </header>
+    );
 }
