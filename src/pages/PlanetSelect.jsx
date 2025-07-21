@@ -27,7 +27,7 @@ export default function PlanetSelect() {
 
                 <main className="main-content">
                     <h1 className="headline">
-                        “Every world has a history. Where will you begin?”
+                        “Every world has history. Where will you begin?”
                     </h1>
 
                     <div className="planet-stack">
@@ -44,8 +44,6 @@ export default function PlanetSelect() {
                             />
                         ))}
                     </div>
-
-                    {/* ✅ Positioned clearly below planet stack */}
                     <p className="tagline">The stars are waiting. Choose a planet.</p>
                 </main>
             </div>

@@ -1,25 +1,74 @@
+.planet-content-wrapper {
+    background-color: #0f1114;
+    color: #ffffff;
+    min-height: 100vh;
+    padding-top: 80px;
+    /* Adjust based on header height */
+}
+
 .planet-content {
-    padding: 40px;
-    max-width: 800px;
-    margin: auto;
+    padding-top: 100px;
+    /* enough room under fixed header */
+    padding-left: 2rem;
+    padding-right: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+    color: #fff;
+    font-family: var(--font-sci-fi);
+}
+
+.planet-title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 2rem;
+    border-bottom: 1px solid #333;
+    margin-bottom: 2rem;
+    text-align: left;
 }
 
 .content-section {
-    margin-bottom: 40px;
-}
-
-.content-section h2 {
-    font-size: 1.5rem;
-    margin-bottom: 10px;
+    margin-bottom: 3rem;
 }
 
 .content-section img {
     width: 100%;
-    border-radius: 10px;
-    margin-bottom: 10px;
+    height: auto;
+    margin: 1rem 0;
+    border-radius: 6px;
+}
+
+.section-title {
+    font-size: 1.5rem;
+    border-bottom: 1px solid #444;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.section-image {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-bottom: 1rem;
 }
 
 .content-section p {
+    font-family: 'Roboto', sans-serif;
     line-height: 1.6;
-    color: #ddd;
+    font-size: 1.1rem;
+}
+
+.content-section .separator {
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.3);
+    margin-bottom: 1.5rem;
+    width: 100%;
+}
+
+.content-section h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+}
+
+.planet-content h1 {
+    padding-bottom: 50px;
 }

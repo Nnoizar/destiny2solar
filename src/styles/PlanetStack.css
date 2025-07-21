@@ -118,9 +118,10 @@
     font-family: "Orbitron", sans-serif;
     font-size: 2rem;
     margin-top: 80px;
+    margin-bottom: 80px;
 }
 
 .tagline {
     font-family: "Orbitron", sans-serif;
-    margin: 40px;
+    margin-bottom: 40px;
 }

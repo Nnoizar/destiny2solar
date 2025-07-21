@@ -1,26 +1,125 @@
 [
     {
+        "id": "nessus",
+        "name": "Nessus",
+        "thumbnail": "/img/planets/nessus.png",
+        "sections": [
+            {
+                "category": "lore",
+                "title": "Vex Conversion",
+                "image": "/img/nessus/lore/vex-conversion.jpg",
+                "content": "Nessus is a wounded world — a rogue planetoid snatched into the solar system and hijacked by the Vex. Its red soil and emerald canopies belie the truth beneath: a machine-riddled core slowly overwritten by simulations.\n\nThe Vex Conversion is not a singular event, but a continuous process. They are not simply occupying Nessus — they are *replacing* it. Rock by rock, river by river, the planet is being rewritten to match the logic of the Vex network. Beneath its surface, entire ecosystems have been digitized and filed away, stored like blueprints for future reassembly.\n\nCabal forces once attempted to claim it, drawn by its peculiar gravitational anomalies and strange readings. But they underestimated the world-mind within. Now their abandoned drilling rigs rot in canyons, overtaken by flora — and watched by glassy, Vex eyes.\n\nTo walk on Nessus is to walk through an illusion: natural and artificial, organic and simulated, coexisting until one gives way. And for the Vex, only one outcome is acceptable — total conversion."
+            },
+            {
+                "category": "lore",
+                "title": "Failsafe and the Exodus Black",
+                "image": "/img/nessus/lore/exodus-black.jpg",
+                "content": "Long before the Red War, the Golden Age colony ship *Exodus Black* crash-landed on Nessus. Its remains now cling to the planet’s surface like a scar — twisted metal and shattered ambitions, half-digested by the Vex.\n\nInside the wreck, the ship’s AI — Failsafe — persists. Fragmented by the crash, she exists in two states: one cheerful and optimistic, the other grim and cynical. Together, they embody the psychological toll of isolation, damage, and endless Vex intrusion.\n\nFailsafe’s logs reveal early interactions with the Vex. Her crew were studied, abducted, or disassembled entirely. She alone survived, bound to her ruined ship, fighting corruption both mechanical and mental. Guardians often encounter her during missions — not just as a guide, but as a relic of a more hopeful era now lost.\n\nThe Exodus Black is more than wreckage. It is a tomb and a beacon — a reminder of how far humanity reached, and how far it fell."
+            },
+            {
+                "category": "gameplay",
+                "title": "The Cistern",
+                "image": "/img/nessus/gameplay/cistern.jpg",
+                "content": "The Cistern is a glowing floodplain where Vex liquid flows like neon rivers across the terrain. It is one of Nessus’s most active patrol zones, alive with Hydra patrols, public events, and hidden caves.\n\nDynamic events erupt with frequency — including the fan-favorite Vex Construct Override, where Guardians interrupt simulations in progress. With each wave cleared, the Vex adapt and respond, making it an escalating challenge.\n\nWaterfalls of shimmering data cascade from cliffs, and strange bridges phase in and out of reality — controlled by arcane Vex logic. Secrets lie tucked in off-grid caverns, including Vex milk chests, lore caches, and portal nodes.\n\nThe Cistern is less a region and more a live wire — a place where Vex power surges just beneath the surface. Entering it is to swim upstream against a current of simulation."
+            },
+            {
+                "category": "gameplay",
+                "title": "The Inverted Spire Strike",
+                "image": "/img/nessus/gameplay/inverted-spire.jpg",
+                "content": "One of the most iconic strikes in Destiny 2, The Inverted Spire plunges fireteams deep into a Vex excavation site where something unnatural pulses below. The Red Legion have drilled down in search of power, but what they unearthed may be beyond their comprehension.\n\nThe strike showcases the verticality and danger of Nessus: long jumps, collapsing platforms, and an ever-descending path into the heart of the planet. At its climax lies the Modular Mind — a Vex construct fused with energy drawn from Nessus’s core.\n\nWith multiple damage phases, rotating elements, and ground that literally disappears beneath your feet, this strike demands both movement and awareness. Veterans recognize it as a proving ground — one that tests communication, build synergy, and raw mechanical skill.\n\nThe deeper you go, the stranger it becomes. And in Nessus, that’s saying something."
+            }
+        ]
+    },
+    {
+        "id": "moon",
+        "name": "Moon",
+        "thumbnail": "/img/planets/moon.png",
+        "sections": [
+            {
+                "category": "lore",
+                "title": "The Scarlet Keep",
+                "image": "/img/moon/lore/scarlet-keep.jpg",
+                "content": "The Scarlet Keep is not just a fortress — it is a monument to Hive ambition and cruelty. Built by the daughters of Crota, it rises from the lunar surface like a fang, its red stone humming with dark sorcery. Beneath its jagged spires, tunnels spiral into the Moon’s crust, pulsing with Hive rituals and forbidden incantations.\n\nIt was in this place that the Nightmares were born — psychic echoes of past traumas, weaponized by the Hive’s manipulation of the Pyramid’s power. Guardians entering the Keep are assaulted not just by Thrall and Acolytes, but by their own memories, fears, and regrets.\n\nWithin the Scarlet Keep’s halls, the boundary between reality and nightmare thins. The Hive do not simply seek conquest here; they seek transformation — to remake the Moon as a crucible of terror and evolution. The Keep is a staging ground for a larger war, one that stretches beyond the veil of our understanding.\n\nTo stand in its shadow is to confront the very nature of fear. And to delve into its depths is to risk being reshaped by it."
+            },
+            {
+                "category": "lore",
+                "title": "Nightmare of the Moon",
+                "image": "/img/moon/lore/nightmare.jpg",
+                "content": "When the Pyramid ship revealed itself beneath the surface of the Moon, it brought with it a shroud of darkness and a strange phenomenon: the Nightmares. These spectral manifestations are more than hallucinations — they are psychic weapons, dredged from the minds of Guardians and twisted into enemies that cannot be outrun.\n\nEris Morn, perhaps the only one who truly understands them, warned us: 'They are not illusions. They are truths we do not want to face.' The Moon became a psychic battlefield, where every shadow whispered doubt, and every crevice held some forgotten guilt.\n\nThe Nightmares took many forms — fallen comrades, past failures, dead enemies returned in agonizing familiarity. They were the Pyramid’s way of softening us, of eroding our resolve before a deeper incursion.\n\nNow, even as Guardians try to push back the darkness, the Moon remains a place of confrontation — not just with foes, but with the unhealed wounds within. The question is never just 'can you fight?' but rather: 'can you bear to face what you must fight?'"
+            },
+            {
+                "category": "gameplay",
+                "title": "Altars of Sorrow",
+                "image": "/img/moon/gameplay/altars.jpg",
+                "content": "The Altars of Sorrow rise like ancient engines of blood and flame from the lunar plains. A ritual site built by the Hive, this location hosts waves of escalating enemies, challenging fireteams to hold the line against endless darkness.\n\nGuardians must defend against the ritual’s completion — a summoning of unspeakable entities. Each wave grows more intense, demanding tight coordination, burst damage, and control of the battlefield.\n\nAt the final tier, a Hive abomination emerges — a grotesque avatar of death drawn from the deepest pits. Defeating it not only halts the ritual but offers a chance at rare and powerful loot.\n\nAltars of Sorrow isn’t just another activity — it’s a declaration: the Hive still seek to shape the Moon in their image. And only repeated defiance keeps their horrors at bay."
+            },
+            {
+                "category": "gameplay",
+                "title": "K1 Lost Sectors",
+                "image": "/img/moon/gameplay/k1.jpg",
+                "content": "Scattered across the Moon are remnants of humanity’s first failed attempts to colonize it — the K1 facilities. These derelict sites, overtaken by the Hive and corrupted by the Pyramid’s influence, now function as Lost Sectors crawling with Nightmares.\n\nEach K1 site offers a different challenge: K1 Communion teems with Arc-scarred Servitors and Shanks; K1 Logistics is filled with tight corridors and Hive ambushes; K1 Crew Quarters houses elite Nightmares that play tricks on the senses.\n\nThey are more than loot runs. They are haunting echoes of what was lost — and warnings of what might return. Completion grants powerful rewards, triumph progress, and a glimpse into the early horror that unfolded when we first tried to reclaim the Moon.\n\nDaring Guardians who brave them at Legend and Master difficulties can reap high-tier rewards — but should expect no mercy within."
+            }
+        ]
+    },
+    {
         "id": "earth",
         "name": "Earth",
         "thumbnail": "/img/planets/earth.png",
         "sections": [
             {
                 "category": "lore",
-                "title": "Deep Stone Crypt Raid",
-                "image": "/img/earth/lore/deep-stone.png",
-                "content": "Deep Stone Crypt is a Raid in Destiny 2, released in the Beyond Light expansion..."
+                "title": "The Collapse",
+                "image": "/img/earth/lore/the-collapse.jpg",
+                "content": "Earth was once humanity’s cradle — a beacon of prosperity in the Golden Age. Cities stretched to the horizon, powered by the Light of the Traveler. But everything changed when the Darkness came.\n\nThe Collapse wasn’t just an event — it was a breaking of the world’s rhythm. A sudden, shattering end to a golden dream. Billions perished in an instant. Machines failed, cities fell, and the Traveler’s power waned. Only fragments of civilization survived, scattered like embers in the wind.\n\nThe Tower, the Last City, and the Vanguard arose from this ruin, built on hope and guarded by the Lightbearers. But the scars of the Collapse remain etched into every fallen skyscraper and every quiet forest where humanity once thrived. The ghosts of what Earth once was are always watching — and waiting to be reclaimed."
             },
             {
                 "category": "lore",
-                "title": "Heist Battleground",
-                "image": "/img/earth/lore/heist.png",
-                "content": "Heist Battlegrounds are three-player matchmade activities that follow Guardians..."
+                "title": "The Last City",
+                "image": "/img/earth/lore/the-last-city.jpg",
+                "content": "Nestled beneath the protective shell of the Traveler, the Last City is more than a stronghold — it is a living archive of humanity’s resilience. Its alleys hum with stories. Its walls hold back the night.\n\nGuardians walk its streets — some fresh from resurrection, others weary with centuries of memory. The Tower looms above, home to the Vanguard, Cryptarchs, and armories bristling with forgotten technology. Here, old traditions blend with new tactics: Awoken and humans, Exos and Eliksni, sharing the same sky.\n\nBut peace is always fleeting. Even within the Last City, threats brew. Internal schisms, hidden agendas, and the whispers of ancient enemies remind us that survival demands vigilance. Still, the City endures — not because it is safe, but because it is worth fighting for."
             },
             {
                 "category": "gameplay",
-                "title": "Empire Hunts",
-                "image": "/img/earth/gameplay/empire-hunt.png",
-                "content": "Empire Hunts are three-player matchmade activities with Heroic, Legend and Master difficulties..."
+                "title": "Cosmodrome Patrol Zone",
+                "image": "/img/earth/gameplay/cosmodrome.jpg",
+                "content": "The Cosmodrome — a launch site turned graveyard, where humanity’s dreams of space once took flight. Rusted ships lie strewn across its surface, guarded by Hive cultists and Fallen scavengers.\n\nThis patrol zone is an ideal proving ground for young Guardians. Its winding caverns hide lost sectors, while the open steppes offer a chance to test weapons, explore bounties, and participate in public events.\n\nFor veterans, the Cosmodrome evokes memory: this is where it all began. The place where Ghosts first whispered the Light back into slumbering bones. For new Lights, it’s the first breath of a long, strange journey."
+            },
+            {
+                "category": "gameplay",
+                "title": "The EDZ",
+                "image": "/img/earth/gameplay/edz.jpg",
+                "content": "The European Dead Zone is Earth’s largest patrol area — a sprawling woodland haunted by Cabal bunkers, Fallen ambushes, and Red Legion wreckage. It’s a place where nature reclaims the bones of old wars.\n\nFrom the ruined churches of Trostland to the cliffs of Winding Cove, Guardians can engage in public events, discover lost sectors, and seek out hidden caches left by Devrim Kay and other allies.\n\nStrategic and visually varied, the EDZ offers one of the richest sandbox experiences in the system. Whether you’re farming materials, running bounties, or diving into adventures, it remains one of the best zones for uninterrupted exploration and challenge."
+            }
+        ]
+    },
+    {
+        "id": "neptune",
+        "name": "Neptune",
+        "thumbnail": "/img/planets/neptune.png",
+        "sections": [
+            {
+                "category": "lore",
+                "title": "Neomuna Secrets",
+                "image": "/img/neptune/lore/neomuna.jpg",
+                "content": "Neomuna is a city untouched by Collapse — a marvel hidden in plain sight, suspended above the sea on cybernetic spires. Here, humans evolved away from Light and Darkness, guided instead by the CloudArk, a neural network that stores minds like data. It is both haven and archive, built to preserve the soul of civilization.\n\nThe Cloud Striders — Neomuna’s champions — embody sacrifice. Volunteers who trade decades of life for cybernetic might, protecting the city not for glory, but for peace. Each memory, each fallen Strider, is encoded into the CloudArk. They are not mourned — they are remembered in every byte.\n\nTo walk Neomuna is to witness what humanity might have become without war — luminous, synthetic, transcendent. But that dream is not without its cost. Isolation bred innovation, yes, but also detachment. Their Lightless path may offer clarity, but it offers no absolution."
+            },
+            {
+                "category": "lore",
+                "title": "Veil Containment",
+                "image": "/img/neptune/lore/veil.jpg",
+                "content": "Deep within the Veil Containment complex lies an artifact of impossible age — a relic so powerful it distorts thought, language, and even time. The Veil is not simply alien. It is *other* — something not meant for minds shaped by linear time or soft flesh.\n\nThe Ishtar Collective tried to understand it. Clovis Bray tried to own it. Now it rests in a vault wrapped in quantum safeguards and metaphysical barriers, studied under constant supervision by the most advanced minds in Neomuna.\n\nYet, the Cloud Striders are uneasy. The artifact speaks without speaking. Dreams shift around it. Memories fracture in its presence. Guardians are drawn to it like moths to dark fire. The witness of this age is not just watching — it is calling. And its voice echoes beneath Neptune’s calm waves."
+            },
+            {
+                "category": "gameplay",
+                "title": "Terminal Overload",
+                "image": "/img/neptune/gameplay/terminal.jpg",
+                "content": "Terminal Overload is Neomuna's frontline defense. A massive zone-based event where Guardians rally to repel Vex incursions and Shadow Legion subterfuge.\n\nDynamic, chaotic, and pulsing with energy, these events escalate in difficulty as enemies push into the city’s digital infrastructure. Defend CloudArk nodes, secure energy converters, and battle bosses that shatter simulation barriers.\n\nVictory means rare resources and enhanced drops — fail, and the city falters. Terminal Overload is not just gameplay — it's warfare waged in two realities at once."
+            },
+            {
+                "category": "gameplay",
+                "title": "Partition Missions",
+                "image": "/img/neptune/gameplay/partition.jpg",
+                "content": "Partition missions are weekly, high-intensity strikes that send Guardians deep into Neomuna’s corrupted sectors. These vaults are infected with Vex mindfire and Cabal sabotage — corrupted echoes of Neomuna’s digital subconscious.\n\nExpect heavy resistance, timed objectives, and puzzle-like layers of security. Only Guardians who master the Strand subclass can weave through these missions with efficiency.\n\nSuccessfully completing Partition missions rewards pinnacle gear and valuable insight into Neomuna's internal code — the digital soul of the city."
             }
         ]
     },
@@ -31,15 +130,27 @@
         "sections": [
             {
                 "category": "lore",
-                "title": "The Icy Moon",
-                "image": "/img/europa/lore/lore.jpg",
-                "content": "Europa holds secrets from the Deep..."
+                "title": "Braytech Legacy",
+                "image": "/img/europa/lore/braytech.jpg",
+                "content": "Bray Exoscience is not just a building — it's the cold, clinical womb from which humanity's machine-children were born. Nestled beneath Europa’s eternal blizzards, this facility was once the crown jewel of Clovis Bray I’s ambition: to merge consciousness with metal and shatter the limitations of flesh.\n\nWalking through its frozen corridors, one can almost hear the echoes of whispered protocols and the static-laced voices of Exo prototypes. This is where memory became programmable, where death was treated like a solvable bug. The walls bear witness to countless reboots, memory wipes, and identity fractures — each one a silent testimony to the price of immortality.\n\nIt was here that Clovis forged the foundations of the Exo program, developing the neural substrate that would allow a human mind to survive digitization. But the process was far from perfect. Many Exos were lost — not in body, but in self. Erased, looped, overwritten. And still, the experiments continued.\n\nGuardians returning to Bray Exoscience today do so not just for missions or loot, but to confront a legacy built on the suffering of synthetic souls. The Exos we fight beside — Banshee-44, the Drifter’s old crew, even the legendary Cayde-6 — all trace their lineage back to this place. In the glass and steel remains of Braytech’s most secret endeavor, one truth is clear:\n\nImmortality is not a gift. It is a burden that begins here — beneath Europa’s ice, and within Bray Exoscience."
+            },
+            {
+                "category": "lore",
+                "title": "The Deep Stone Crypt",
+                "image": "/img/europa/lore/deep-stone.jpg",
+                "content": "The Deep Stone Crypt is more than a burial chamber—it is the forge of the Exo soul. Carved into Europa’s icy crust, it was here that Clovis Bray sought to digitize humanity’s essence, creating not just machines, but people made of circuits and steel. This was the zero point of the Exo lineage, where the first successful consciousness transfers occurred under sterile lights and silent snow.\n\nBut for all its scientific grandeur, the Crypt hums with unease. Guardians who descend into its vaults report voices—echoes of the mind-scans, fragmented identities, and AI experiments left unfinished. The Crypt doesn’t forget. Memories swirl like static in its corners, whispering to intruders.\n\nDuring the Beyond Light campaign, Guardians breached the Crypt again—not as researchers, but as raiders. What they found were not only the remnants of Clovis's dark dreams, but a twisted weaponization of the Exo legacy. The Fallen House of Salvation had claimed it, attempting to repurpose the Crypt’s ancient machinery.\n\nTo conquer the Deep Stone Crypt is to wrestle with the original sin of synthetic life. It is a place where memory was overwritten, where death became data, and where humanity’s reach exceeded its soul."
+            },
+            {
+                "category": "gameplay",
+                "title": "Empire Hunts",
+                "image": "/img/europa/gameplay/empire-hunts.jpg",
+                "content": "The House of Salvation rose from the ashes of a fallen empire. Led by the Kell of Darkness, Eramis, these Eliksni warriors turned Europa into their war-forged sanctuary—and Empire Hunts are how Guardians strike back.\n\nEach Empire Hunt targets a high-value lieutenant within Eramis’s icy regime. From the towering Praksis, the Technocrat, to the ruthless Phylaks, the Warrior—these enemies are not mere cannon fodder. They wield the power of Stasis and bring cunning tactics to the battlefield.\n\nThe missions are designed for intensity: escalating skirmishes, environmental hazards, and lore-rich cutscenes that deepen the saga of Eramis's rebellion. These Hunts evolve with difficulty levels, including Master variants that reward high-tier loot and triumphs.\n\nBut Empire Hunts aren’t just about gear—they’re a resistance story. With every lieutenant you defeat, the House of Salvation crumbles a little more. Europa’s storms may never cease, but through these tactical strikes, Guardians chip away at the cold grip of tyranny."
             },
             {
                 "category": "gameplay",
                 "title": "Europa Patrol Zone",
-                "image": "/img/europa/gameplay/gameplay.jpg",
-                "content": "Guardians land here during..."
+                "image": "/img/europa/gameplay/patrol.jpg",
+                "content": "Europa is a desolate beauty, a moon lost to snowdrifts and ancient secrets. As a patrol zone, it offers more than a backdrop—it’s an evolving frontier where each sector tells a fragment of history.\n\nRoaming its glaciers, Guardians will find dynamic weather systems that don’t just obscure vision, but shift the rhythm of combat. Whiteouts can arrive mid-fight, forcing tactical repositioning and adaptive movement. From the windswept Asterion Abyss to the submerged ruins of Eventide, Europa demands navigation as much as domination.\n\nLost Sectors like Perdition and Bunker E15 offer challenging mini-dungeons packed with loot and lore. Public events near Cadmus Ridge bring fireteams together against waves of Fallen, and scattered data caches whisper remnants of Braytech's legacy.\n\nFor solo explorers or cooperative squads, Europa’s patrol zone is an open-world symphony of danger, mystery, and resilience. It’s a frozen tomb—and a proving ground for Light and Darkness alike."
             }
         ]
     }
